@@ -1,5 +1,12 @@
 {
     "key": {
         "value": "mockValue"
+    },
+    "valueExtraction": {
+        "code": [{
+            "source": {
+                "path": "$.code"
+            }
+        }]
     }
 }
